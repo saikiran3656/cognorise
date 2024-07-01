@@ -1,5 +1,6 @@
 # cognorise
 python projects
+
 .....................................................................................................................................................................................................................
 1. Rock, Paper, Scissors Game
 A classic Rock, Paper, Scissors game implemented in Python. This interactive game allows users to play against the computer, providing an engaging and fun experience. The game logic is simple, yet demonstrates the basics of conditional statements and user input handling in Python.
@@ -25,7 +26,8 @@ Solves standard 9x9 Sudoku puzzles
 Implements backtracking algorithm for efficient solving
 Validates input puzzle for correctness
 .....................................................................................................................................................................................................................
-Technologies Used
+
+Technologies Used:
 Python
 
 ![Screenshot 2024-07-01 224105](https://github.com/saikiran3656/cognorise/assets/128991080/83a6cdf2-ea59-4fe3-af67-cdcfbcd44c23)
